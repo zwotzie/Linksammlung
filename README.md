@@ -6,4 +6,4 @@
 * https://seaborn.pydata.org/index.html
 * https://plot.ly/python/
 * https://bokeh.pydata.or
-
+* http://pyviz.org
