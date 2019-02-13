@@ -4,6 +4,6 @@
 # Python
 ## statistical data visualization
 * https://seaborn.pydata.org/index.html
-* https://plot.ly/python/
+* https://plot.ly/python/ - https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
 * https://bokeh.pydata.or
 * http://pyviz.org
