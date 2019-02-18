@@ -1,5 +1,14 @@
+# AI, Neural Networks, Machine Learning, Deep Learning
+* https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+
+
 # Postgresql
 * https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680
+
+
+# Spark
+* https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090
+
 
 # Python
 ## statistical data visualization
@@ -8,8 +17,3 @@
 * https://bokeh.pydata.or
 * http://pyviz.org
 
-# Spark
-* https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090
-
-# AI, Neural Networks, Machine Learning, Deep Learning
-* https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
