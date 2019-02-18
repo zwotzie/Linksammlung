@@ -20,3 +20,6 @@
 
 ## jupyter
 * https://towardsdatascience.com/jupyter-magics-with-sql-921370099589
+
+# Tensorflow
+* https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
