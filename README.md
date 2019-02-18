@@ -7,3 +7,9 @@
 * https://plot.ly/python/ - https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
 * https://bokeh.pydata.or
 * http://pyviz.org
+
+# Spark
+* https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090
+
+# AI, Neural Networks, Machine Learning, Deep Learning
+* https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
