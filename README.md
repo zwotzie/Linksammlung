@@ -11,6 +11,7 @@
 
 
 # Python
+* https://python-future.org/compatible_idioms.html Cheat Sheet: Writing Python 2-3 compatible code
 ## statistical data visualization
 * https://seaborn.pydata.org/index.html
 * https://plot.ly/python/ - https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf
