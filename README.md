@@ -8,6 +8,7 @@
 
 # Spark
 * https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090
+* https://github.com/ericxiao251/spark-syntax
 
 
 # Python
