@@ -27,3 +27,6 @@
 
 # cloud analytics
 * https://aws.amazon.com/blogs/big-data/build-a-modern-analytics-stack-optimized-for-sharing-and-collaborating-with-mode-and-amazon-redshift/
+
+# Kafka
+* Go CLI: https://github.com/infinimesh/kaf
