@@ -24,3 +24,6 @@
 
 # Tensorflow
 * https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
+
+# cloud analytics
+* https://aws.amazon.com/blogs/big-data/build-a-modern-analytics-stack-optimized-for-sharing-and-collaborating-with-mode-and-amazon-redshift/
