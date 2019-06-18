@@ -32,3 +32,6 @@
 
 # Kafka
 * Go CLI: https://github.com/infinimesh/kaf
+
+# Password Checker
+* https://lowe.github.io/tryzxcvbn/ pure javascript
