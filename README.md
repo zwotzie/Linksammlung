@@ -30,6 +30,10 @@
 # cloud analytics
 * https://aws.amazon.com/blogs/big-data/build-a-modern-analytics-stack-optimized-for-sharing-and-collaborating-with-mode-and-amazon-redshift/
 
+# Hadoop
+* https://www.datadoghq.com/blog/monitor-hadoop-metrics/
+* https://www.datadoghq.com/blog/collecting-hadoop-metrics/
+
 # Kafka
 * Go CLI: https://github.com/infinimesh/kaf
 
