@@ -33,6 +33,8 @@
 # Hadoop
 * https://www.datadoghq.com/blog/monitor-hadoop-metrics/
 * https://www.datadoghq.com/blog/collecting-hadoop-metrics/
+## YARN
+* https://www.davidmcginnis.net/post/yarn-capacity-scheduler-and-node-labels-part-1
 
 # Kafka
 * Go CLI: https://github.com/infinimesh/kaf
