@@ -2,6 +2,9 @@
 * https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 * https://towardsdatascience.com/aifortrading-2edd6fac689d Using the latest advancements in deep learning to predict stock price movements
 
+# Docker
+* https://github.com/docker/docker-bench-security
+
 # Postgresql
 * https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680
 
