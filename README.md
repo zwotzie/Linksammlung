@@ -45,3 +45,6 @@
 
 # Password Checker
 * https://lowe.github.io/tryzxcvbn/ pure javascript
+
+# Ubuntu
+* https://www.linuxuprising.com/2018/10/shutter-removed-from-ubuntu-1810-and.html
