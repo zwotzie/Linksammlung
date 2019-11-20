@@ -8,6 +8,8 @@
 # Postgresql
 * https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680
 
+# Presto
+* https://medium.com/@adirmashiach/facebook-prestodb-full-review-4ba59720a92
 
 # Spark
 * https://blog.usejournal.com/spark-study-notes-core-concepts-visualized-5256c44e4090
@@ -37,6 +39,7 @@
 # Hadoop
 * https://www.datadoghq.com/blog/monitor-hadoop-metrics/
 * https://www.datadoghq.com/blog/collecting-hadoop-metrics/
+
 ## YARN
 * https://www.davidmcginnis.net/post/yarn-capacity-scheduler-and-node-labels-part-1
 
