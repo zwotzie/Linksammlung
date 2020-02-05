@@ -1,3 +1,6 @@
+# Website creation
+* https://ezgif.com/ best online imaging tool
+
 # AI, Neural Networks, Machine Learning, Deep Learning
 * https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 * https://towardsdatascience.com/aifortrading-2edd6fac689d Using the latest advancements in deep learning to predict stock price movements
