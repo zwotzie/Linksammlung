@@ -23,6 +23,7 @@
 * https://python-future.org/compatible_idioms.html Cheat Sheet: Writing Python 2-3 compatible code
 * https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/
 * http://pljung.de/posts/easy-concurrency-in-python/
+* https://www.datacamp.com/community/data-science-cheatsheets
 
 ## statistical data visualization
 * https://seaborn.pydata.org/index.html
