@@ -34,6 +34,9 @@
 ## jupyter
 * https://towardsdatascience.com/jupyter-magics-with-sql-921370099589
 
+## pandas
+* https://www.ritchieng.com/pandas-introduction/
+
 # Tensorflow
 * https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
 
