@@ -24,6 +24,7 @@
 * https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/
 * http://pljung.de/posts/easy-concurrency-in-python/
 * https://www.datacamp.com/community/data-science-cheatsheets
+* https://www.data-science-architect.de/dictionaries-python/
 
 ## statistical data visualization
 * https://seaborn.pydata.org/index.html
