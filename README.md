@@ -37,6 +37,7 @@
 
 ## pandas
 * https://www.ritchieng.com/pandas-introduction/
+* https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
 
 # Tensorflow
 * https://medium.com/mostly-ai/tensorflow-records-what-they-are-and-how-to-use-them-c46bc4bbb564
