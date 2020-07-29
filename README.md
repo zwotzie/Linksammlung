@@ -36,6 +36,7 @@
 ## jupyter
 * https://towardsdatascience.com/jupyter-magics-with-sql-921370099589
 * https://nextjournal.com/schmudde/how-to-version-control-jupyter
+* https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29
 
 ## pandas
 * https://www.ritchieng.com/pandas-introduction/
